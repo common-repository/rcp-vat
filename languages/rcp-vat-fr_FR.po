@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RCP VAT\n"
+"POT-Creation-Date: 2017-05-15 10:27+0100\n"
+"PO-Revision-Date: 2017-05-15 08:28+0000\n"
+"Last-Translator: Vladimir <admin@idweblogs.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/utilisateur/Downloads/rcp-vat/\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;"
+
+#: admin/class-rcp-vat-admin.php:584
+msgid "VAT Fields"
+msgstr "TVA Intracommunautaire (si applicable)"
+
+#: admin/class-rcp-vat-admin.php:586
+msgid "Company Name"
+msgstr "Nom de la société"
+
+#: admin/class-rcp-vat-admin.php:591
+msgid "Company VAT number"
+msgstr "Numéro de TVA intracommunautaire"
+
+#: admin/class-rcp-vat-admin.php:597
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/class-rcp-vat-admin.php:602
+msgid "Postcode"
+msgstr "Code postal"
+
+#: admin/class-rcp-vat-admin.php:607 admin/class-rcp-vat-admin.php:1560
+msgid "Country"
+msgstr "Pays"
+
+#: admin/class-rcp-vat-admin.php:647
+msgid "Please enter a valid VAT number"
+msgstr "Merci d'entrer un numéro de TVA intracommunautaire valide"
+
+#: admin/class-rcp-vat-admin.php:657
+msgid "Please enter your address"
+msgstr "Merci d'entrer votre adresse"
+
+#: admin/class-rcp-vat-admin.php:661
+msgid "Please enter your postcode"
+msgstr "Merci d'entrer votre code postal"
+
+#: admin/class-rcp-vat-admin.php:664
+msgid "Please enter your country"
+msgstr "Merci d'entrer votre pays"
+
+#: admin/class-rcp-vat-admin.php:666
+msgid "VAT Number and Country mismatch"
+msgstr ""
+"Le numéro de TVA intracommunautaire et le pays spécifié ne concordent pas"
+
+#: admin/class-rcp-vat-admin.php:670
+msgid "VAT Number and Country match"
+msgstr ""
+"Le numéro de TVA intracommunautaire et le pays spécifié concordent : OK !"
+
+#: admin/class-rcp-vat-admin.php:673
+msgid "VAT Not applicable"
+msgstr "Pas de TVA intracommunautaire"
+
+#: admin/class-rcp-vat-admin.php:994
+msgid "RCP VAT Settings (with Stripe Only)"
+msgstr "RCP TVA Paramètres (marche avec Stripe seulement)"
+
+#: admin/class-rcp-vat-admin.php:998
+msgid "Enabled?"
+msgstr "Activé?"
+
+#: admin/class-rcp-vat-admin.php:1004
+msgid ""
+"If checked, taxes will be added on all new user subscription created from "
+"now on."
+msgstr ""
+"Si activé, la TVA sera ajoutée au prix final quelque soit l'abonnement choisi"
+
+#: admin/class-rcp-vat-admin.php:1006
+msgid ""
+"Ex. $10 Subscription: If Enable : $10+VAT will be displayed on site, charged,"
+" and shown inside invoice."
+msgstr ""
+"Par ex: Abonnement à 10 €. si activé : 10€ + TVA sera affiché dans le prix "
+"final et facturé au client."
+
+#: admin/class-rcp-vat-admin.php:1010
+msgid "Business country"
+msgstr "Pays du siège social de la société"
+
+#: admin/class-rcp-vat-admin.php:1508
+msgid "Set the country from which you sell."
+msgstr "Depuis quel pays vendez-vous l'abonnement?"
+
+#: admin/class-rcp-vat-admin.php:1513
+msgid "Local VAT % ("
+msgstr "TVA du pays, en % ("
+
+#: admin/class-rcp-vat-admin.php:1518
+msgid "Enter your local VAT ("
+msgstr "Entrer le taux de TVA local ("
+
+#: admin/class-rcp-vat-admin.php:1522
+msgid "Without tax price suffix"
+msgstr "Label prix Hors Taxes (HT)"
+
+#: admin/class-rcp-vat-admin.php:1527
+msgid "Enter price label suffix when no VAT applied."
+msgstr "Entrer le label du prix lorsqu'aucune taxe n'est appliquée"
+
+#: admin/class-rcp-vat-admin.php:1531
+msgid "With tax price suffix"
+msgstr "Label du prix Toutes Taxes Comprises (TTC)"
+
+#: admin/class-rcp-vat-admin.php:1536
+msgid "Enter price label suffix when VAT applied."
+msgstr "Entrer le label du prix quand toutes les taxes sont appliquées"
